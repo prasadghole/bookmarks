@@ -35,3 +35,6 @@ http://data.uni-muenster.de/
 • Hilary Mason research-quality datasets is available at
 https://bitly.com/bundles/hmason/1
 Other
+
+## Embedded Systems
+http://derekmolloy.ie/category/embedded-systems/
