@@ -39,5 +39,8 @@ https://bitly.com/bundles/hmason/1
 https://kind.engineering/
 Other
 
+# Nuttx
+https://lupyuen.github.io/
+
 ## Embedded Systems
 http://derekmolloy.ie/category/embedded-systems/
